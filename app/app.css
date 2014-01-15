@@ -1,0 +1,33 @@
+@font-face {
+	font-family: smb;
+	src: url(common/fonts/smb.ttf);
+}
+
+body {
+	font-family: smb;
+}
+
+.world {
+	margin: 1.66%;
+	width: 30%;
+}
+
+.large-text {
+	font-size: 2em;
+}
+
+.aggregate-panel {
+	display: inline-block;
+	margin: 0.83%;
+	width: 15%;
+	cursor: pointer;
+}
+
+.aggregate-panel img {
+	width: 100%;
+}
+
+.fill {
+	margin: 0.83%;
+	width: 98.33%;
+}
