@@ -1,0 +1,22 @@
+{
+	"name": "power-up-panels",
+	"version": "0.0.1",
+	"authors": [
+		"Lukas Olson <olson.lukas@gmail.com>"
+	],
+	"main": "app.js",
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"lodash": "~2.4.1",
+		"angular": "~1.2.8",
+		"angular-route": "~1.2.8",
+		"bootstrap": "~3.0.3"
+	}
+}
