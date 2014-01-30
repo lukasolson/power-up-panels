@@ -4,3 +4,10 @@ A simple web app that helps you get all of the power-ups in the power-up panels 
 
 1. `bower install`
 1. Open index.html in a browser
+
+To Do:
+1. Better support for touch
+1. Offline caching
+1. Better readme
+1. Select panel in modal dialog
+1. Clicking on flipped cards should bring up original options
