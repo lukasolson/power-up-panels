@@ -10,4 +10,3 @@ To Do:
 1. Better support for touch
 1. Offline caching
 1. Better readme
-1. Select panel in modal dialog
