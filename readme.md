@@ -11,4 +11,3 @@ To Do:
 1. Offline caching
 1. Better readme
 1. Select panel in modal dialog
-1. Clicking on flipped cards should bring up original options
