@@ -1,4 +1,4 @@
-angular.module("powerUpPanels", ["ngRoute"]).config(["$routeProvider", function($routeProvider) {
+angular.module("powerUpPanels", ["ngRoute", "ngTouch"]).config(["$routeProvider", function($routeProvider) {
 	$routeProvider.when("/select-world", {
 		controller: "selectWorldController",
 		templateUrl: "app/select-world/select-world.html"
